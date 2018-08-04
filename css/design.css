@@ -1,0 +1,117 @@
+body{
+    background: url(../images/background2.gif);
+}
+header{
+    background-color: #675c47;
+    height: 108px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+#logo{
+    float: left;
+}
+#slogan{
+    float: right;
+}
+.nav{
+    background-color: #efe5d0;
+    margin-bottom: 8px;
+}.nav-link{
+    color: #b76666;
+}
+/*
+.nav-link .active{
+    color: #efe5d0;
+}
+*/
+aside{
+    height: 450px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 6px;
+    background-color: #efe5d0;
+}
+main{
+    height: 450px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 6px;
+    background-color: #efe5d0;
+}
+article{
+    height: 450px;
+    padding-left: 6px;
+    background-color: #efe5d0;
+}
+footer{
+    background-color: #675c47;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    height: 40px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
+}
+h1{
+    color: #b76666;
+    font-size: 14px;
+}
+main p a:link{
+    color: #b76666;
+}
+p{
+    font-family: Geogoria, Time New Romans;
+    font-size: 12px;
+}
+.list p{
+    color: #b76666;
+    text-align: center;
+    font-size: 14px;
+}
+#bean{
+    color: coral;
+}
+#form{
+    background-image: url(../images/background.gif);
+    width: 694px;
+    display: block;
+    margin: 0 auto;
+}
+label{
+    float: left;
+    width: 150px;
+    text-align: right;
+    padding-right: 12px;
+    margin-top: 12px;
+    clear: left;
+}
+input, textarea, select{
+    margin-top: 12px;
+}
+#submit{
+/*    float: left;*/
+    padding-right: 12px;
+    margin-left: 160px;
+    margin-bottom: 12px;
+}
+h4{
+  text-align: right;
+    width: 150px;
+    padding-right: 12px;
+    clear: left;
+}
+#beanmachine{
+    display: block;
+    margin: 0 auto;
+    width: 694px;
+}
+.fill{
+    display: block;
+    margin: 0 auto;
+    width: 694px;
+}
+.fill p{
+    font-size: 20px;
+    font-family: Geogoria, Time New Romans;
+}
